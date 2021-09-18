@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FCKJesus&show_icons=true&theme=tokyonight)
+![FCKJesus GitHub stats](https://github-readme-stats.vercel.app/api?username=FCKJesus&show_icons=true&theme=tokyonight)
 
 
 # Python Developer
