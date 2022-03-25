@@ -26,6 +26,7 @@
 ## Какие технологии я использую
 
 - Kafka/RabbitMQ
-- Posgreslq
+- Posgreslq/MySQL
 - Docker
+- Zabbix
 - Git
