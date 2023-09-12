@@ -1,6 +1,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=FCKJesus&theme=radical&hide_border=true&border_radius=15&locale=ru&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-![FCKJesus Streak]([https://fckjesus.github.io](https://fckjesus.github.io/assets/test.svg)/)
+![FCKJesus Streak](https://fckjesus.github.io/assets/test.svg)
 
 # Python Developer
 
